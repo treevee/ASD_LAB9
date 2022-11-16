@@ -1,0 +1,5 @@
+яблуко apple
+груша pear
+картопля potato
+апельсин orange
+цибуля onion
